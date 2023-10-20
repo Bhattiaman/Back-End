@@ -5,9 +5,9 @@
     mkdir = make directory
     cd = back to two step
     touch = create a file
-    ** Delete **
+### Delete 
         rm = remove directory
         rmdir = remove empty folder
         rm -rf = remove any folder
 
-        
+
