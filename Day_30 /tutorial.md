@@ -18,4 +18,8 @@
 ## Process.argv :
         returns an arrau containing the command line arguments passed when the Node.js process was launched.
 
-## Image
+![How to run program](image2.png)
+
+<!-- git add --all
+git commit -m "update"
+git push -->
