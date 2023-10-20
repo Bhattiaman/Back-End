@@ -43,19 +43,19 @@
 ## Create PR(pull request)
 
 ### Fixing Mistake 
-    #### Case 1: 
+    Case 1: 
         statged (only "add --all) changes
         git reset <-file_name> 
         git reset
 
-    #### Case 2: 
+    Case 2: 
         Commit changes (for one commit)
         git reset HEAD(like linked list head node) 
     
-    #### Case 3: 
+    Case 3: 
     Commit changes (for many commit)
         git reset <-commit hash>
         git reset --hard <-commit hash> 
 
-    ####  **git log** => get all commit
+    **git log** => get all commit
 
