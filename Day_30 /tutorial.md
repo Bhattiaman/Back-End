@@ -26,7 +26,7 @@
 
 ## Pass the arguments return something in all argument
 
-![How to run program](image4.png)
+![How to run program](image44.png)
 
 <!-- git add --all
 git commit -m "update"
