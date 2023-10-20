@@ -49,14 +49,5 @@
     git reset <-file_name> 
     git reset
   </li>
-  <li>Case 2: 
-    Commit changes (for one commit)
-    git reset HEAD(like linked list head node) 
-  </li>
-  <li>Case 3: 
-   Commit changes (for many commit)
-    git reset <-commit hash>
-    git reset --hard <-commit hash> 
-  </li>
-    
+
 </ol>
