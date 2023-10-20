@@ -25,3 +25,13 @@
     1) track history
     2) help tp collaboration
 
+
+## Github
+    It is a website where we host repositories online.
+
+### Commands
+    **git branch** => 
+    **git branch -m main** => 
+    **git checkout <-branch -name>** => 
+    **git -b < new branch>** => 
+    **git branch -d <-branch -name>** => 
