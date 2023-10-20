@@ -20,6 +20,10 @@
 
 ![How to run program](image2.png)
 
+![How to run program](image3.png)
+
+![How to run program](image4.png)
+
 <!-- git add --all
 git commit -m "update"
 git push -->
