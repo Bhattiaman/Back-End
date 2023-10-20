@@ -35,6 +35,8 @@
         In math.js file use ** module.exports = "" **
         In script.js use ** require("") ** function
 
+![How to run program](image5.png)
+
 <!-- git add --all
 git commit -m "update"
 git push -->
