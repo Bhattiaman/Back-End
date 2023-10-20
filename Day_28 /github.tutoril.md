@@ -30,8 +30,14 @@
     It is a website where we host repositories online.
 
 ### Commands
-    **git branch** => 
-    **git branch -m main** => 
-    **git checkout <-branch -name>** => 
-    **git -b < new branch>** => 
-    **git branch -d <-branch -name>** => 
+    **git branch** => to check branch
+    **git branch -m main** => to rename branch
+    **git checkout <-branch -name>** =>  to navigate
+    **git -b < new branch>** => to create new branch
+    **git branch -d <-branch -name>** =>  to delete branch 
+
+## Merging Code after someone contribute over project
+    **git diff <-branch name> => to compare commit branch file
+    **git merge <branch name> => to delete branch
+    
+## Create PR(pull request)
