@@ -46,10 +46,8 @@
 <ol>
   <li>Case 1: 
   
-    <p>statged (only "add --all) changes
-    <br>
+    statged (only "add --all) changes
     git reset <-file_name> 
-
     git reset
   </li>
   <li>Case 2: </li>
