@@ -20,7 +20,11 @@
 
 ![How to run program](image2.png)
 
+## Pass the arguments 
+
 ![How to run program](image3.png)
+
+## Pass the arguments return something in all argument
 
 ![How to run program](image4.png)
 
