@@ -44,8 +44,11 @@
 
 ### Fixing Mistake 
 <ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Case 1: 
+    <p>statged (only "add --all) changes 
+    git reset <-file_name>
+    git reset</p>
+  </li>
+  <li>Case 2: </li>
+  <li>Case 3: </li>
 </ol>
