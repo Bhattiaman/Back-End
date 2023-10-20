@@ -45,11 +45,12 @@
 ### Fixing Mistake 
 <ol>
   <li>Case 1: 
-  <br>
-    <p>statged (only "add --all) changes 
-    git reset <-file_name> <br>
 
-    git reset</p>
+    statged (only "add --all) changes
+    <br>
+    git reset <-file_name> 
+
+    git reset
   </li>
   <li>Case 2: </li>
   <li>Case 3: </li>
