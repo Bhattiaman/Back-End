@@ -45,6 +45,7 @@
 ### Fixing Mistake 
 <ol>
   <li>Case 1: 
+  <br>
     <p>statged (only "add --all) changes 
     git reset <-file_name> <br>
 
