@@ -16,7 +16,7 @@
         This object provide information about, and control over, the current Node.js process.
 
 ## Process.argv :
-        returns an arrau containing the command line arguments passed when the Node.js process was launched.
+        returns an array containing the command line arguments passed when the Node.js process was launched.
 
 ![How to run program](image2.png)
 
