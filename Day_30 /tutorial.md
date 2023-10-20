@@ -37,6 +37,8 @@
 
 ![How to run program](image5.png)
 
+![How to run program](image6.png)
+
 <!-- git add --all
 git commit -m "update"
 git push -->
