@@ -53,9 +53,14 @@
         git reset HEAD(like linked list head node) 
     
     Case 3: 
-    Commit changes (for many commit)
+        Commit changes (for many commit)
         git reset <-commit hash>
         git reset --hard <-commit hash> 
 
     **git log** => get all commit
 
+## Forking || Contribution
+    A fork is a new repo. that shared code and visiblity settings with the original "upstream" repo.
+    **fork means => It is a rough copy**
+    1) Fork
+    2) Pull request
