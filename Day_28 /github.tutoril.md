@@ -41,3 +41,11 @@
     **git merge <branch name> => to delete branch
     
 ## Create PR(pull request)
+
+### Fixing Mistake 
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
