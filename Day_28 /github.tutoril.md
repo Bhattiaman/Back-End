@@ -58,5 +58,5 @@
     git reset <-commit hash>
     git reset --hard <-commit hash> 
   </li>
-    **git log** => get all commit
+    
 </ol>
