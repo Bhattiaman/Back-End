@@ -9,7 +9,7 @@
 ###        console.log("hello : ", i);
 ###    }
 
- ## ![How to run program](image1.png)
+ ![How to run program](image1.png)
 
 ## Process :
 
