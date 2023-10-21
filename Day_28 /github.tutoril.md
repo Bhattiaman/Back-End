@@ -30,6 +30,7 @@
     It is a website where we host repositories online.
 
 ### Commands
+    **git push origin --delete remoteBranchName** => delete the branch from the github
     **git branch** => to check branch
     **git branch -m main** => to rename branch
     **git checkout <-branch -name>** =>  to navigate
@@ -64,3 +65,10 @@
     **fork means => It is a rough copy**
     1) Fork
     2) Pull request
+
+## If you get this error
+     ! [rejected]        main -> main (fetch first)
+        error: failed to push some refs to 'https://github.com/Bhattiaman/Back-End'
+        ***
+        git push -f ori origin main  
+        
