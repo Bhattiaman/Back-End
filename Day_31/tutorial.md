@@ -4,3 +4,7 @@
     A library is a collection of pre-written code that can be used to perform specific tasks. ex => axios
 
     A framework is a collection of pre-written code that can provides a structure for developing software application. ex => express.
+
+### Express : 
+    A Node js web application framework that help to make web appilcations.
+    It is used for server side programming.
