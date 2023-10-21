@@ -31,7 +31,7 @@
 
 ## Export the file function
 
-        export the function of other file function from math.js file to  script.js 
+        export the function of other file function from math.js file to script.js 
         In math.js file use ** module.exports = "" **
         In script.js use ** require("") ** function
 
