@@ -8,3 +8,7 @@
 ### Express : 
     A Node js web application framework that help to make web appilcations.
     It is used for server side programming.
+    **Use**
+    1) listen for incoming request
+    2) parse the data
+    3) match response with routes
