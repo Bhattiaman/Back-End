@@ -13,8 +13,20 @@
     2) parse the data
     3) match response with routes
     4) response
-### Getting started with Express || How to create web api's
-```javascript
-var s = 'JavaScript syntax highlighting'; var s = 'JavaScript syntax highlighting';
-alert(s);
+### Getting started with Express || How to create web api's using express
+**Create a Srver**
 ```
+const express = require("express");
+const app = express();
+// console.dir(app);
+let port = 3000;
+
+// listen if a function which is listen the request port
+app.listen(port, () => {
+    console.log(`app listening on port ${port}`);
+});
+
+```
+![How to run program](./assets/image.png)
+![How to run program](./assets/image2.png)
+
