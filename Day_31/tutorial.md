@@ -14,7 +14,7 @@
     3) match response with routes
     4) response
 ### Getting started with Express || How to create web api's
-    ```javascript
-    var s = 'JavaScript syntax highlighting'; var s = 'JavaScript syntax highlighting';
-    alert(s);
-    ```
+```javascript
+var s = 'JavaScript syntax highlighting'; var s = 'JavaScript syntax highlighting';
+alert(s);
+```
