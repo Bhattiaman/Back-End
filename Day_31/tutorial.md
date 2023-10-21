@@ -12,3 +12,9 @@
     1) listen for incoming request
     2) parse the data
     3) match response with routes
+    4) response
+### Getting started with Express || How to create web api's
+    ```javascript
+    var s = 'JavaScript syntax highlighting'; var s = 'JavaScript syntax highlighting';
+    alert(s);
+    ```
