@@ -9,7 +9,7 @@
 ###        console.log("hello : ", i);
 ###    }
 
- ![How to run program](image1.png)
+ ![How to run program](./assets/image1.png)
 
 ## Process :
 
@@ -18,15 +18,15 @@
 ## Process.argv :
         returns an array containing the command line arguments passed when the Node.js process was launched.
 
-![How to run program](image2.png)
+![How to run program](./assets/image2.png)
 
 ## Pass the arguments 
 
-![How to run program](image3.png)
+![How to run program](./assets/image3.png)
 
 ## Pass the arguments return something in all argument
 
-![How to run program](image44.png)
+![How to run program](./assets/image44.png)
 
 
 ## Export the file function
@@ -35,9 +35,9 @@
         In math.js file use ** module.exports = "" **
         In script.js use ** require("") ** function
 
-![How to run program](image5.png)
+![How to run program](./assets/image5.png)
 
-![How to run program](image6.png)
+![How to run program](./assets/image6.png)
 
 <!-- git add --all
 git commit -m "update"
