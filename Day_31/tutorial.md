@@ -21,11 +21,19 @@ const app = express();
 // console.dir(app);
 let port = 3000;
 
-// Request recived if ant request is come on port 3000 port.(for try use "Hoppscotch") "Hoppscotch" it is use for send the request on localhost port.
+// listen if a function which is listen the request port
 app.listen(port, () => {
     console.log(`app listening on port ${port}`);
 });
+// Request recived if ant request is come on port 3000 port.(for try use "Hoppscotch") "Hoppscotch" it is use for send the request on localhost port.
+app.use((req, res) => {
+    //console.log(req);
+    console.log("Handling the respones");
 
+    // In send function we send html(tags), string, code
+    res.send("This the first response");
+    //console.log(req);
+});
 ```
 ![How to run program](./assets/image.png)
 ### Run on Localhost 
