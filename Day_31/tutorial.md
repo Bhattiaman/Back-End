@@ -21,7 +21,7 @@ const app = express();
 // console.dir(app);
 let port = 3000;
 
-// listen if a function which is listen the request port
+// Request recived if ant request is come on port 3000 port.(for try use "Hoppscotch") "Hoppscotch" it is use for send the request on localhost port.
 app.listen(port, () => {
     console.log(`app listening on port ${port}`);
 });
