@@ -12,6 +12,9 @@ app.use((req, res) => {
     console.log("Handling the respones");
 
     // In send function we send html(tags), string, code
-    res.send("This the first response");
+    // res.send("This the first response");
     //console.log(req);
+    let code = "<h1>Hello, Aman</h1>";
+    res.send(code);
+
 });
