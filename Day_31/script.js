@@ -26,6 +26,16 @@ app.listen(port, () => {
 //     });
 // });
 
-app.get("*",(req,res) => {
-    res.send("this path is not exit")
+// app.get("*",(req,res) => {
+//     res.send("this path is not exit")
+// });
+
+app.get("username/:id",(req, res) => {
+    let {username, id} = req.params;
+    let htmlStr = '<h1>Welcome to the page of @${username}!</h1>';
+    res.send(htmlStr);
+});
+app.get("/search", (req,res ) => {
+    console.log(req.query);
+    res.send("no result");
 });
