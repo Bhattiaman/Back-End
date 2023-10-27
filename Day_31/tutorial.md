@@ -45,4 +45,17 @@ app.use((req, res) => {
 ## Routing
     fixed the path where you want to show the content
 
-    
+### function
+**important path** => app.get("*",(req,res){ }) //"*" means it valid for every undefine path page
+    1. app.get("path",(req,res){});
+
+
+
+
+
+
+
+
+
+
+
