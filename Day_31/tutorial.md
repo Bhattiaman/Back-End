@@ -47,7 +47,8 @@ app.use((req, res) => {
 
 ### function
 **important path** => app.get("*",(req,res){ }) //"*" means it valid for every undefine path page
-    1. app.get("path",(req,res){});
+
+#### 1. app.get("path",(req,res){});
 
 
 
