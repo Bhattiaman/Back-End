@@ -19,9 +19,13 @@ app.listen(port, () => {
 
 // });
 
-app.get("/apple",(req,res) =>{
-    res.send({
-        name: "apple",
-        color: "red",
-    });
+// app.get("/apple",(req,res) =>{
+//     res.send({
+//         name: "apple",
+//         color: "red",
+//     });
+// });
+
+app.get("*",(req,res) => {
+    res.send("this path is not exit")
 });

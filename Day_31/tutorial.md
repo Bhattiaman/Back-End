@@ -49,12 +49,15 @@ app.use((req, res) => {
 **important path** => app.get("*",(req,res){ }) //"*" means it valid for every undefine path page
 
 #### 1. app.get("path",(req,res){});
+#### 1. app.post("path",(req,res){});
+#### 1. app.all("path",(req,res){});
 
-
-
-
-
-
+## Path Parameters
+re.params
+app.get("/ig/:username",(req,res) => {
+    let {username} = req.params;
+    res.send("This account belongs to @${username});
+});
 
 
 
