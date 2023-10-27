@@ -42,3 +42,7 @@ app.use((req, res) => {
 ### Run on Localhost 
 ![How to run program](./assets/imm.png)
 
+## Routing
+    fixed the path where you want to show the content
+
+    
