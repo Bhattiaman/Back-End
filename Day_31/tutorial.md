@@ -59,7 +59,7 @@ app.get("/ig/:username",(req,res) => {
     res.send("This account belongs to @${username});
 });
 
-
+![How to run program](./assets/immm.png)
 
 
 
