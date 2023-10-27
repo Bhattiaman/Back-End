@@ -49,8 +49,8 @@ app.use((req, res) => {
 **important path** => app.get("*",(req,res){ }) //"*" means it valid for every undefine path page
 
 #### 1. app.get("path",(req,res){});
-#### 1. app.post("path",(req,res){});
-#### 1. app.all("path",(req,res){});
+#### 2. app.post("path",(req,res){});
+#### 3. app.all("path",(req,res){});
 
 ## Path Parameters
 re.params
